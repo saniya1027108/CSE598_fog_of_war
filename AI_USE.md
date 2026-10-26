@@ -6,5 +6,4 @@ List every AI assistant or coding agent you used for this project. Keep it curre
 |---|---|---|---|
 | Cursor | Referred to external resources while coming up with the first experiment ideas, then drafted the markdown files and the journal | One session, for the proposal | `PLAN.md`, `JOURNAL.md` |
 
-Commits written mostly by an agent should carry a trailer naming the tool, for example
-`Co-Authored-By: <tool name>`.
+
